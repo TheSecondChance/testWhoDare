@@ -27,5 +27,4 @@ class Tracker:
         self.events.append((event_name, time()))
 
     def get_events(self):
-        """Return the list of logged events."""
         return self.events
