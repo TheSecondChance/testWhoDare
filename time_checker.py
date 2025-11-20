@@ -2,7 +2,8 @@ from time import time
 
 class TimeChecker:
     def __init__(self):
-        self.start_time = None
+        self.start_time = time()
+        self.elapsed_time = 0
 
     def start(self):
         """Start the timer."""
