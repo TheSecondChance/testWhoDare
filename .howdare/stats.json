@@ -511,6 +511,22 @@
       "humanChars": 63,
       "aiChars": 592,
       "events": 23
+    },
+    {
+      "date": "2025-11-25",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
+    },
+    {
+      "date": "2025-11-26",
+      "humanLines": 22,
+      "aiLines": 17,
+      "humanChars": 63,
+      "aiChars": 592,
+      "events": 23
     }
   ],
   "lastUpdated": 1763648120375
