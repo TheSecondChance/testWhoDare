@@ -17,6 +17,7 @@ def test_time_checker_not_started():
 	tc = TimeChecker()
 	with pytest.raises(ValueError):
 		tc.elapsed()
+
 def test_time_checker_multiple_starts():
 	tc = TimeChecker()
 	tc.start()
